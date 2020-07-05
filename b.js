@@ -1,7 +1,5 @@
-var d = $('<div>').appendTo('body');z
+var d = $('<div>',{css:{'width':'100%','height':'100%','margin':0,'position':'absolute','top':0,'z-index':88888,'background-color':'black'}}).appendTo('body');z
 var v = $('#videoView').appendTo(d);
-
-d.css({'width':'100%','height':'100%','margin':0,'position':'absolute','top':0,'z-index':88888,'background-color':'black'});
 
 var o = true;
 $(v).click(function(){
