@@ -1,4 +1,4 @@
-var d = $('<div>',{css:{'width':'100%','height':'100%','margin':0,'position':'absolute','top':0,'z-index':88888,'background-color':'black'}}).appendTo('body');z
+var d = $('<div>',{css:{'width':'100%','height':'100%','margin':0,'position':'absolute','top':0,'z-index':88888,'background-color':'black'}}).appendTo('body');
 var v = $('#videoView').appendTo(d);
 
 var o = true;
